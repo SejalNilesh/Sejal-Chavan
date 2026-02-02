@@ -2,7 +2,6 @@
 
 🎓 Engineering Student  
 💻 Java | JavaScript | Node.js | MySQL  
-🚀 Interested in Backend & System Design
 
 ### 🔧 Tech Stack
 - Java
