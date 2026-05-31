@@ -1,16 +1,16 @@
 ## Hi, I'm Sejal 👋
 
 🎓 Engineering Student  
-💻 Java | JavaScript | Node.js | MySQL  
+💻 Java | JavaScript | Node.js | MySQL | Python
 
-### 🔧 Tech Stack
+### Tech Stack
 - Java
 - JavaScript
 - Node.js
 - Express
 - MySQL
 
-### 📌 Featured Projects
+###  Featured Projects
 - **Kind Hands Connect** – Platform to help specially-abled people  
 - **Portfolio Website** – Responsive + 3D UI  
 
